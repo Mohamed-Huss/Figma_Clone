@@ -55,4 +55,5 @@ We value your feedback! If you have any suggestions, ideas, or feature requests 
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for both personal and commercial purposes.
 
-🚀 Developed with passion by [Your Name].
+🚀 Developed with passion by Mohamed Hussein.
+
