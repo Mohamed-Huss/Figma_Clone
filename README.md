@@ -1,4 +1,4 @@
-# Figma Clone ![Figma Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/24px-Figma-logo.svg.png) ✨
+# Figma Clone ![Figma Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/20px-Figma-logo.svg.png) ✨
 
 Welcome to Figma Clone, a collaborative design tool that empowers real-time creativity through cursor chat, reactions, and drawing tools. Built with Next.js 14, Fabric.js, and Liveblocks, Figma Clone brings your design ideas to life with seamless collaboration and innovative features.
 
